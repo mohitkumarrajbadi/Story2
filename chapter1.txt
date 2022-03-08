@@ -1,1 +1,2 @@
 This is the new chapter 1. 
+This is the new line added to the new branch.
